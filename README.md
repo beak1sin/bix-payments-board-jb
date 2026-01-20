@@ -24,6 +24,7 @@ VITE_API_BASE_URL=https://front-mission.bigs.or.kr
 ```
 
 # 빌드된 결과물 미리보기
+```
 npm run preview
 ```
 
